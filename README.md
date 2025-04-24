@@ -1,4 +1,4 @@
-# Bot de Ações TRP Discord
+# Bot de Ações Tática RP para o Discord
 
 Este é um bot para Discord que gerencia ações com sistema de vagas para operadores.
 
